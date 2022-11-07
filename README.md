@@ -2,6 +2,8 @@
 
 A API em questão terá a finalidade de gerenciar despesas que o usuário cadastra na mesma e demonstrar de forma prática uma relação separada por categoria, dos gastos do usuário
 
+API desenvolvida por: Jonas Orzelino Guidis Ferreira.
+
 
 # Funcionamento da API
 
